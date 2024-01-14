@@ -1,1 +1,0 @@
-# Tu trzeba umiesci dwa pliki zrodlowe csv
