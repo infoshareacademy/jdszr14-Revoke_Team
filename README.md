@@ -1,8 +1,4 @@
-# SQL Project - International Air Traffic from and to India
-
-**Goal**: analysis of the flight network in India with particular emphasis on the most attractive connections.
-
-[Data](https://www.kaggle.com/datasets/rajanand/international-air-traffic-from-and-to-india?select=Airlinewise+Monthly+International+Air+Traffic+To+And+From+The+Indian+Territory.csv)
+# Projects by Revoke Team
 
 ## Authors: 
 * [Emilia Przudzik](https://github.com/mila-j8)
